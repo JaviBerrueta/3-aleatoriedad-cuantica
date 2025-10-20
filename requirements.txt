@@ -70,7 +70,7 @@ pyparsing==3.1.2
 pywinpty==2.0.13
 pyzmq==27.1.0
 qibo==0.2.21
-qiboconnection==0.17.0
+qiboconnection>=0.17.0
 qiskit==0.46.0
 qiskit-terra==0.46.0
 qtconsole==5.5.1
@@ -98,6 +98,7 @@ webencodings==0.5.1
 websocket-client==1.7.0
 websockets==10.4
 widgetsnbextension==4.0.10
+
 
 
 
