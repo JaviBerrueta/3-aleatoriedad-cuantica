@@ -62,7 +62,6 @@ platformdirs==4.2.0
 ply==3.11
 prometheus_client==0.20.0
 psutil==5.9.8
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pycparser==2.22
 Pygments==2.17.2
 PyJWT==2.6.0
