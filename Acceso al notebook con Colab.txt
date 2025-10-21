@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/JaviBerrueta/3-aleatoriedad-cuantica/blob/main/Aleatoriedad_cuantica.ipynb
